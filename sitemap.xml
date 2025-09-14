@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://alejandraczzz.github.io/portafolio-arteycomunicacion/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://alejandraczzz.github.io/portafolio-arteycomunicacion/</loc>
+</url>
+<url>
+<loc>https://alejandraczzz.github.io/portafolio-arteycomunicacion/composicion-visual-en-inkscape.html</loc>
+<lastmod>2025-09-13T19:01:23-05:00</lastmod>
+<image:image>
+<image:loc>https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/3/comp.abstracta.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://alejandraczzz.github.io/portafolio-arteycomunicacion/un-poco-sobre-mi-p.html</loc>
+<lastmod>2025-09-05T23:10:57-05:00</lastmod>
+</url>
+</urlset>

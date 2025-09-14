@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Portafolio - Arte y Comunicación",
+    "description": "",
+    "home_page_url": "https://alejandraczzz.github.io/portafolio-arteycomunicacion",
+    "feed_url": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alejandra Cortés Zárrate"
+    },
+    "items": [
+        {
+            "id": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/composicion-visual-en-inkscape.html",
+            "url": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/composicion-visual-en-inkscape.html",
+            "title": "Composición visual en Inkscape ✨",
+            "summary": "Con esta composición mi objetivo era crear una imágen sobre algo que amo, las flores. Usando las características del programa, compuse a través de figuras simples y su organización diferentes tipos y variedades de plantas. Dispuse en el espacio estas especies de tal forma que&hellip;",
+            "content_html": "<p>Con esta composición mi objetivo era crear una imágen sobre algo que amo, las flores. Usando las características del programa, compuse a través de figuras simples y su organización diferentes tipos y variedades de plantas. Dispuse en el espacio estas especies de tal forma que asemejera el espiral de la proporción áurea, proporción que suele ser relacionada con la \"perfección\" o la \"belleza\" al encontrarse de manera natural en animales, flores, formaciones geolóicas, entre otras. Para mí, las flores son una de las mayores expresiones de belleza que la tierra nos dió, me hipnotizan sus colores, patrones y variedades, por lo que decidí hacer la composición resaltando mi fascinación estética por las diferentes formas y colores de las flores.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"file:///Users/alejandracorteszarrate/Documents/Publii/sites/portafolio-arte-y-comunicacion/input/media/posts/2/comp.abstracta.svg\" alt=\"\" width=\"794\" height=\"1123\"></figure>",
+            "image": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/3/comp.abstracta.png",
+            "author": {
+                "name": "Alejandra Cortés Zárrate"
+            },
+            "tags": [
+                   "Composición visual"
+            ],
+            "date_published": "2025-09-13T18:53:13-05:00",
+            "date_modified": "2025-09-13T19:01:23-05:00"
+        }
+    ]
+}

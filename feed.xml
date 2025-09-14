@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Portafolio - Arte y Comunicación</title>
+    <link href="https://alejandraczzz.github.io/portafolio-arteycomunicacion/feed.xml" rel="self" />
+    <link href="https://alejandraczzz.github.io/portafolio-arteycomunicacion" />
+    <updated>2025-09-13T19:01:23-05:00</updated>
+    <author>
+        <name>Alejandra Cortés Zárrate</name>
+    </author>
+    <id>https://alejandraczzz.github.io/portafolio-arteycomunicacion</id>
+
+    <entry>
+        <title>Composición visual en Inkscape ✨</title>
+        <author>
+            <name>Alejandra Cortés Zárrate</name>
+        </author>
+        <link href="https://alejandraczzz.github.io/portafolio-arteycomunicacion/composicion-visual-en-inkscape.html"/>
+        <id>https://alejandraczzz.github.io/portafolio-arteycomunicacion/composicion-visual-en-inkscape.html</id>
+        <media:content url="https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/3/comp.abstracta.png" medium="image" />
+            <category term="Composición visual"/>
+
+        <updated>2025-09-13T18:53:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/3/comp.abstracta.png" alt="" />
+                    Con esta composición mi objetivo era crear una imágen sobre algo que amo, las flores. Usando las características del programa, compuse a través de figuras simples y su organización diferentes tipos y variedades de plantas. Dispuse en el espacio estas especies de tal forma que&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/3/comp.abstracta.png" class="type:primaryImage" alt="" /></p>
+                <p>Con esta composición mi objetivo era crear una imágen sobre algo que amo, las flores. Usando las características del programa, compuse a través de figuras simples y su organización diferentes tipos y variedades de plantas. Dispuse en el espacio estas especies de tal forma que asemejera el espiral de la proporción áurea, proporción que suele ser relacionada con la "perfección" o la "belleza" al encontrarse de manera natural en animales, flores, formaciones geolóicas, entre otras. Para mí, las flores son una de las mayores expresiones de belleza que la tierra nos dió, me hipnotizan sus colores, patrones y variedades, por lo que decidí hacer la composición resaltando mi fascinación estética por las diferentes formas y colores de las flores.</p>
+<figure class="post__image"><img loading="lazy"  src="file:///Users/alejandracorteszarrate/Documents/Publii/sites/portafolio-arte-y-comunicacion/input/media/posts/2/comp.abstracta.svg" alt="" width="794" height="1123"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
