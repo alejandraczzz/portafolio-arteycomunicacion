@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/web-comic.html",
+            "url": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/web-comic.html",
+            "title": "Webcómic 🐱",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/4/PHOTO-2025-09-13-18-38-02.jpg\" alt=\"\" width=\"1600\" height=\"1600\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/4/responsive/PHOTO-2025-09-13-18-38-02-xs.jpg 640w ,https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/4/responsive/PHOTO-2025-09-13-18-38-02-sm.jpg 768w ,https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/4/responsive/PHOTO-2025-09-13-18-38-02-md.jpg 1024w ,https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/4/responsive/PHOTO-2025-09-13-18-38-02-lg.jpg 1366w ,https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/4/responsive/PHOTO-2025-09-13-18-38-02-xl.jpg 1600w ,https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/4/responsive/PHOTO-2025-09-13-18-38-02-2xl.jpg 1920w\"></figure>",
+            "image": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/media/posts/4/PHOTO-2025-09-13-18-38-02-2.jpg",
+            "author": {
+                "name": "Alejandra Cortés Zárrate"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-13T19:40:39-05:00",
+            "date_modified": "2025-09-13T19:46:53-05:00"
+        },
+        {
             "id": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/composicion-visual-en-inkscape.html",
             "url": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/composicion-visual-en-inkscape.html",
             "title": "Composición visual en Inkscape ✨",
