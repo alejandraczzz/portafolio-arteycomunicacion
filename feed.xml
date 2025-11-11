@@ -3,12 +3,55 @@
     <title>Portafolio - Arte y Comunicación</title>
     <link href="https://alejandraczzz.github.io/portafolio-arteycomunicacion/feed.xml" rel="self" />
     <link href="https://alejandraczzz.github.io/portafolio-arteycomunicacion" />
-    <updated>2025-09-22T00:36:17-05:00</updated>
+    <updated>2025-11-10T22:55:04-05:00</updated>
     <author>
         <name>Alejandra Cortés Zárrate</name>
     </author>
     <id>https://alejandraczzz.github.io/portafolio-arteycomunicacion</id>
 
+    <entry>
+        <title>Experimentación audiovisual</title>
+        <author>
+            <name>Alejandra Cortés Zárrate</name>
+        </author>
+        <link href="https://alejandraczzz.github.io/portafolio-arteycomunicacion/experimentacion-audiovisual.html"/>
+        <id>https://alejandraczzz.github.io/portafolio-arteycomunicacion/experimentacion-audiovisual.html</id>
+
+        <updated>2025-11-10T22:55:04-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Para hacer esta experimentación 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Para hacer esta experimentación </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Iniciativas autonomas</title>
+        <author>
+            <name>Alejandra Cortés Zárrate</name>
+        </author>
+        <link href="https://alejandraczzz.github.io/portafolio-arteycomunicacion/iniciativas-autonomas.html"/>
+        <id>https://alejandraczzz.github.io/portafolio-arteycomunicacion/iniciativas-autonomas.html</id>
+
+        <updated>2025-11-10T20:17:12-05:00</updated>
+            <summary>
+                <![CDATA[
+                    En este post se encuentra la documentación de las experiencias autonomas que realicé a lo largo del semestre, sigue leyendo para saber más. Iniciativa 1: Taller de papel san Lorenzo - Barichara Esta fue una experiencia sumamente enriquecedora y valiosa para mí. Aunque ya había&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>En este post se encuentra la documentación de las experiencias autonomas que realicé a lo largo del semestre, sigue leyendo para saber más.</p>
+<p> </p>
+<p><strong>Iniciativa 1: Taller de papel san Lorenzo - Barichara</strong></p>
+<p>Esta fue una experiencia sumamente enriquecedora y valiosa para mí. Aunque ya había ido antes al taller, fue esta la ocasion en la que tuve la oportunidad de aprender de primera mano sobre el proceso y trabajo que implica hacer papel artesanal. Guiada por una de las madres que conforman este taller, recorrí las instalaciones y presencié el paso a paso del proceso de producción. La madre empezó el recorrido desde la huerta donde se siembran las plantas de las que se obtiene el papel, explicó con demostraciones cada uno de los pasos y acabó con el secado de hoja por hoja y prensado, incluuo tuve la oportunidad de hacer una hoja de papel artesanal por mi cuenta. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composición sonora con GarageBand 🎸</title>
         <author>

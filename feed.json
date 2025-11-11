@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/experimentacion-audiovisual.html",
+            "url": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/experimentacion-audiovisual.html",
+            "title": "Experimentación audiovisual",
+            "summary": "Para hacer esta experimentación ",
+            "content_html": "<p>Para hacer esta experimentación </p>",
+            "author": {
+                "name": "Alejandra Cortés Zárrate"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-10T22:55:04-05:00",
+            "date_modified": "2025-11-10T22:55:04-05:00"
+        },
+        {
+            "id": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/iniciativas-autonomas.html",
+            "url": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/iniciativas-autonomas.html",
+            "title": "Iniciativas autonomas",
+            "summary": "En este post se encuentra la documentación de las experiencias autonomas que realicé a lo largo del semestre, sigue leyendo para saber más. Iniciativa 1: Taller de papel san Lorenzo - Barichara Esta fue una experiencia sumamente enriquecedora y valiosa para mí. Aunque ya había&hellip;",
+            "content_html": "<p>En este post se encuentra la documentación de las experiencias autonomas que realicé a lo largo del semestre, sigue leyendo para saber más.</p>\n<p> </p>\n<p><strong>Iniciativa 1: Taller de papel san Lorenzo - Barichara</strong></p>\n<p>Esta fue una experiencia sumamente enriquecedora y valiosa para mí. Aunque ya había ido antes al taller, fue esta la ocasion en la que tuve la oportunidad de aprender de primera mano sobre el proceso y trabajo que implica hacer papel artesanal. Guiada por una de las madres que conforman este taller, recorrí las instalaciones y presencié el paso a paso del proceso de producción. La madre empezó el recorrido desde la huerta donde se siembran las plantas de las que se obtiene el papel, explicó con demostraciones cada uno de los pasos y acabó con el secado de hoja por hoja y prensado, incluuo tuve la oportunidad de hacer una hoja de papel artesanal por mi cuenta. </p>",
+            "author": {
+                "name": "Alejandra Cortés Zárrate"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-10T20:17:12-05:00",
+            "date_modified": "2025-11-10T20:17:12-05:00"
+        },
+        {
             "id": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/composicion-sonora-con-garag.html",
             "url": "https://alejandraczzz.github.io/portafolio-arteycomunicacion/composicion-sonora-con-garag.html",
             "title": "Composición sonora con GarageBand 🎸",
